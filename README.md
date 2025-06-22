@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=leminhminh&label=Profile%20views&color=0e75b6&style=flat" alt="leminhminh" />
 </p>
 
-- 🔭 I’m currently working on **Bus Ticket Management Software**
+- 🔭 I’m currently studying and working at **Industrial University of Ho Chi Minh City**.
 - 🌱 I’m currently learning **.NET, WinForms, Web APIs**
 - 💬 Ask me about **C#, .NET, SQL Server**
 - 📫 How to reach me: **leminhminh1303@gmail.com**
